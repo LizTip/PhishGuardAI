@@ -1,3 +1,4 @@
+
 # PhishGuard AI: Hybrid Phishing Detection System
 
 ## Project Overview
@@ -75,3 +76,7 @@ PhishGuardAI/
 I capped the TF-IDF features at 5,000 to maintain low-latency (under 150ms).
 
 **Security Note:** This prototype uses an academic dataset and is not connected to a live web crawler for safety during the CI601 assessment.
+
+# PhishGuardAI
+This project was developed for the CI601 University of Brighton Computing Project. It implements a hybrid machine learning approach to detect phishing URLs by combining structural lexical features with character-level TF-IDF n-grams.
+
